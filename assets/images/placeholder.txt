@@ -1,0 +1,3 @@
+This is a placeholder for article images.
+In a real implementation, you would add actual images here.
+Recommended image size: 800x600 pixels.

@@ -1,0 +1,3 @@
+This is a placeholder for the favicon.ico file.
+A proper favicon should be created with Real Madrid colors (white, dark blue, and gold) in .ico format.
+Recommended size: 32x32 pixels or 64x64 pixels.
